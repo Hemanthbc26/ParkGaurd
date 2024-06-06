@@ -1,1 +1,5 @@
-# ParkGaurd
+- Technologies: XML, Java, Firebase, Android Studio
+- User Interaction: Users can enter or scan the license plate number of obstructing vehicles to request assistance.
+- Data Retrieval: The app fetches and shows detailed vehicle information, including the owner's details, vehicle model, and available contact methods.
+- Direct Communication: Users can send messages or call the vehicle owner directly through the app to quickly resolve parking issues.
+- ![IMG-20240530-WA0006](https://github.com/Hemanthbc26/ParkGaurd/assets/98211157/0dde8522-3a6e-4922-9cd7-e847b96f086b)
